@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1174014039333031936/1186032577396613200/BankRobbery.png" width="300"/>
+<img src="https://i.imgur.com/94JrcaX.png" width="300"/>
 
 # PLUGIN BankRobbery
 
